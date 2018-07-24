@@ -9,15 +9,15 @@ const app = express()
 
 
 function my_entry(x) {
-        g();
+        hhh();
 	// console.log(mime.lookup('txt'));
         var x= new a.B();
         x.call();
 }
 
-function g(){
+function hhh(){
 	
-        console.log("hello g");
+        console.log("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh");
 }
   
 my_entry();
