@@ -17,7 +17,7 @@ function my_entry(x) {
 
 function j(){
 	
-        console.log("jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj");
+        console.log("j");
 }
   
 my_entry();
